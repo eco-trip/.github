@@ -9,8 +9,10 @@ your hotel
 </h1>
 
 <div align="center">
+
 Ecotrip is an exam project for SC and LSS courses in UNIBO, made by
 [Alan Mancini](https://github.com/MEBoo),
 [Alberto Marfoglia](https://github.com/amarfoglia),
-[Matteo Brocca](https://github.com/brteo),
+[Matteo Brocca](https://github.com/brteo).
+
 </div>
